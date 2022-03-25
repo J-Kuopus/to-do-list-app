@@ -9,6 +9,15 @@ function newItem() {
   } else {
     $('#list').append(li);
   }
+
+  //2. To cross an item out
+  function crossOut() {
+    li.toggleClass('strike');
+  }
+
+  li.on('dblclick', function crossOut() {
+    li.toggleClass('strike');
+  });
 }
 
 function newItem() {
