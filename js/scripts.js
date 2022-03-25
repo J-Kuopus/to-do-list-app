@@ -1,12 +1,14 @@
-// 1. Adds item to list
-let li = $('<li></li>');
-let inputValue = $('#input').val();
-li.append(inputValue);
+function newItem() {
+  // 1. Adds item to list
+  let li = $('<li></li>');
+  let inputValue = $('#input').val();
+  li.append(inputValue);
 
-if (inputValue === '') {
-  alert('You must write something!');
-} else {
-  $('#list').append(li);
+  if (inputValue === '') {
+    alert('You must write something!');
+  } else {
+    $('#list').append(li);
+  }
 }
 
 function newItem() {
