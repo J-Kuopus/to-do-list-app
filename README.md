@@ -13,6 +13,10 @@ Allows user to:
 - Mark an existing item on the list as done
 - Change the items list order
 
+## Tech Stack
 
+- HTML
+- CSS
+- jQuery
 
 
