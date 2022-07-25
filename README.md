@@ -1,7 +1,10 @@
 # to-do-list-app
 
+## Description
+
 A simple to-do list application built with jQuery
 
+## Images
 ![To-do List image](img/to-do.jpg?raw=true "Title")
 
 ## Key Features
