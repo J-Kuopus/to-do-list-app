@@ -5,7 +5,13 @@
 A simple to-do list application built with jQuery
 
 ## Images
-![To-do List image](img/to-do.jpg?raw=true "Title")
+
+Web version:
+![To-do List Web image](img/to-do-web.jpg?raw=true "Title")
+
+Mobile version:
+<br/>
+![To-do List Web image](img/to-do-mobile.jpg?raw=true "Title")
 
 ## Key Features
 
